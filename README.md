@@ -1,6 +1,6 @@
 ## Olá, eu sou a Priscila Venske 👋
 
-Junior QA Tester em transição de carreira, com +5 anos de experiência em áreas analíticas — onde já validava dados, colaborava com times de TI e identificava falhas em sistemas. Hoje aplico essa visão de negócio diretamente nos testes. Sempre me identifiquei pela área analítica.
+Junior QA Tester em transição de carreira, com +5 anos de experiência em áreas analíticas — onde já validava dados, colaborava com times de TI e identificava falhas em sistemas. Hoje aplico essa visão de negócio diretamente nos testes.
 
 📚 Formação & Certificados
 
