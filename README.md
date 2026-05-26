@@ -14,3 +14,27 @@ Com +5 anos de experiência em áreas analíticas — onde já validava dados, c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    />
+    <img 
+    align="left" 
+    alt="PyCharm" 
+    title="PyCharm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+    />
+    <img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+/>
