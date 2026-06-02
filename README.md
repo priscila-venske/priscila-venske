@@ -26,10 +26,15 @@
 
 </p><h2 align="center">👩🏻‍💻 About Me </h2> 
 
-✦ Junior QA Tester based in Portugal with a background in Accounting and Administration and over 5 years of experience in data validation, process control, and quality-focused work. Currently transitioning into Quality Assurance through hands-on training in manual testing, API testing, and software quality practices. Familiar with creating test cases, reporting defects, validating REST APIs, and using tools such as Jira, Postman, Chrome DevTools, Git/GitHub, SQL, Python, and Selenium at an entry-level. My professional experience has strengthened my analytical thinking, attention to detail, and ability to identify inconsistencies—skills that are highly valuable in software testing. Analytical, organized, and fast-learning professional committed to continuous improvement and product quality.
+✦ Junior QA Tester based in Portugal with a background in Accounting and Administration and over 5 years of experience in data validation, process control, and quality-focused work.
+Currently transitioning into Quality Assurance through hands-on training in manual testing, API testing, and software quality practices. Familiar with creating test cases, reporting defects, validating REST APIs, and using tools such as Jira, Postman, Chrome DevTools, Git/GitHub, SQL, Python, and Selenium at an entry-level.
+My professional experience has strengthened my analytical thinking, attention to detail, and ability to identify inconsistencies—skills that are highly valuable in software testing.
+Analytical, organized, and fast-learning professional committed to continuous improvement and product quality.
 Seeking my first opportunity as a Junior QA Tester or QA Trainee to contribute to software quality while continuing to develop my technical skills in a collaborative environment.
 
-📍 Portugal | 🌐 Open to Remote & Hybrid Opportunities
+📍 Braga - Portugal | 🌐 Open to Remote & Hybrid Opportunities
+
+
 
 </p><h2 align="center">🤖Linguagens e Ferramentas</h2> 
 
@@ -46,11 +51,14 @@ Seeking my first opportunity as a Junior QA Tester or QA Trainee to contribute t
 </div>
 
 
+
+
 </p><h2 align="center"> 🌐 Software Quality Projects </h2> 
 
 <div align="center">
 These are some of my <strong>featured projects:</strong>
 </div>
+
 
 </p><h3 align="center"> 🚗 Web Testing Project – Car Sharing Platform </h3> 
 
@@ -60,7 +68,6 @@ Validated booking, payment, and vehicle rental workflows while performing UI, re
 **Skills:** Functional Testing • UI Testing • Responsive Testing • Cross-Browser Testing • Test Case Design • Defect Reporting • Quality Assurance
 
 &nbsp;
-
 
 </p><h3 align="center">🔌 API Testing Project – Urban Grocers</h3> 
 
@@ -72,7 +79,6 @@ Verified request and response behavior, HTTP status codes, JSON payloads, busine
 
 &nbsp;
 
-
 </p><h3 align="center">📱 Mobile Testing Project – Urban Lunch</h3> 
 
 Conducted end-to-end manual testing of the Urban Lunch Android application, including test planning, checklist creation, functional validation, and defect reporting. Tested restaurant and pickup point selection, food ordering workflows, cart management, and order confirmation processes while validating UI behavior, navigation, and usability.
@@ -82,7 +88,6 @@ Executed testing on an Android emulator, identified and documented defects in Ji
 **Skills:** Mobile Testing • Functional Testing • UI Testing • Usability Testing • Exploratory Testing • End-to-End Testing • Test Design • Bug Reporting • Jira • Quality Assurance
 
 &nbsp;
-
 
 </p><h3 align="center">💻 Basic Database Concepts Project – Urban Taxi</h3> 
 
@@ -94,7 +99,6 @@ Executed data aggregation, joins, filtering, and business rule validation to sup
 
 &nbsp;
 
-
 </p><h3 align="center">🤖 Test Automation Project – Urban Routes</h3> 
 
 Developed and executed automated end-to-end tests for the Urban Routes web application using Python, Selenium WebDriver, and the Page Object Model (POM). Implemented reusable page classes, centralized test data management, environment validation, and automated workflows covering route setup, ride booking, payment registration, additional services, and vehicle search.
@@ -105,7 +109,6 @@ Designed a maintainable automation framework following industry best practices a
 
 &nbsp;
 
-
 </p><h3 align="center">🛴 End-to-End Quality Assurance - Final Project – Urban Scooter</h3> 
 
 Conducted end-to-end testing of the Urban Scooter platform across web, mobile, and API environments. Designed and executed positive and negative test cases, validated customer and courier workflows, performed cross-browser and mobile testing, and verified backend functionality through API testing using Postman.
@@ -115,3 +118,6 @@ Analyzed requirements, documented defects in Jira, and evaluated application beh
 **Skills:** End-to-End Testing • Web Testing • Mobile Testing • API Testing • Functional Testing • Cross-Browser Testing • Test Case Design • Bug Reporting • Jira • Postman • Quality Assurance
 
 &nbsp;
+
+
+##### *This repository serves as my technical portfolio — featuring practical projects, study materials, and automation work focused on Software Quality Assurance.*
